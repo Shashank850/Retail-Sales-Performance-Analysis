@@ -1,0 +1,50 @@
+Business Objective
+The goal is to understand:
+•	Overall sales performance
+•	Revenue trends
+•	Customer retention
+•	City performance
+•	Store performance
+•	Discount effectiveness
+
+Tools Used
+•	SQL Server
+•	SQL Server Management Studio
+•	Power BI
+•	Excel
+
+SQL Techniques
+•	SELECT
+•	WHERE
+•	GROUP BY
+•	CASE
+•	CTE
+•	Aggregate Functions
+•	Window Functions
+•	String Functions
+•	Data Cleaning
+
+Key Analysis
+Overall Performance
+•	Total transactions
+•	Total revenue
+•	Unique customers
+•	Average order value
+Customer Analysis
+
+Customers were classified into:
+•	One-time customers
+•	Repeat customers
+
+Geographic Analysis
+Calculated city-level revenue and percentage contribution to total company revenue.
+
+Store Analysis
+Compared revenue, transaction volume and average basket value across store types.
+
+Dashboard
+Power BI dashboard screenshot will be added here.
+
+Business Recommendations
+Based on the analysis, recommendations will be provided around customer retention, high-performing cities and promotional strategy.
+
